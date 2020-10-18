@@ -39,8 +39,8 @@ You can run the model [here](https://colab.research.google.com/github/oughtinc/e
 ## Get started using Ergo
 
 1. Open [this Colab](https://colab.research.google.com/github/oughtinc/ergo/blob/master/notebooks/quickstart.ipynb)
-2. Add your Metaculus username and password
-3. Select "Runtime > Run all" in the menu
+2. Select "Runtime > Run all" in the menu
+3. When prompted, enter your Metaculus username and password in the third cell
 4. Edit the code to load other questions, improve the model, etc., and rerun
 
 ## Notebooks using Ergo
